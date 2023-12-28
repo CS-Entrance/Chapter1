@@ -70,6 +70,7 @@
 
 ## 🏃 발자취
 - 23.12.21 : `Process & Thread`
+- 23.12.28 : `Scheduling`
 
 ## 📚 Reference
 1. [SSAFY 친구들](https://github.com/SSAFY-CS-STUDY/Tech_interview)
