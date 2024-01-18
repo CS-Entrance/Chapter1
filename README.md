@@ -73,6 +73,7 @@
 - 23.12.28 : `Scheduling`
 - 24.01.04 : `메모리 관리 전략`
 - 24.01.11 : `가상 메모리`
+- 24.01.18 : `커널`
 
 ## 📚 Reference
 1. [SSAFY 친구들](https://github.com/SSAFY-CS-STUDY/Tech_interview)
