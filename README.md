@@ -156,6 +156,7 @@
 - 24.01.25 : `심화질문 & 복습`
 - 24.02.06 : `OSI 7 layers와 TCP/IP 4 layer`
 - 24.02.08 : `TCP와 UDP`
+- 24.02.15 : `HTTP와 HTTPS`
 
 ## 📚 Reference
 1. [SSAFY 친구들](https://github.com/SSAFY-CS-STUDY/Tech_interview)
