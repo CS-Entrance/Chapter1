@@ -158,6 +158,7 @@
 - 24.02.08 : `TCP와 UDP`
 - 24.02.15 : `HTTP와 HTTPS`
 - 24.02.23 : `DNS와 DHCP & 로드밸런서`
+- 24.02.29 : `WEB & Cookie와 Session`
 
 ## 📚 Reference
 1. [SSAFY 친구들](https://github.com/SSAFY-CS-STUDY/Tech_interview)
